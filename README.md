@@ -16,6 +16,6 @@
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeLil&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeLil&layout=compact&card_width=100%)
 
 
