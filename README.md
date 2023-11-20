@@ -5,7 +5,7 @@
 </a>
 
 <p align="center">
-    🤍 🧡 🖤 🤍 💙 ❤️‍🩹 💝 🖤 💜 🤍 
+    🤍 🧡 🖤 🤍 💙 ❤️‍🩹 💝 🖤 💜 🤍 <img align="center" src="https://github.com/SnakeLil/SnakeLil/blob/main/static/luffy.gif" width="25" height="25" autoplay/>
 </p>
 <p align="center">
   <img align="center" src="https://github.com/SnakeLil/SnakeLil/blob/main/static/giphy.gif" width="30" height="30" autoplay/>
