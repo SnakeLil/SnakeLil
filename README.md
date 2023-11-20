@@ -7,7 +7,7 @@
 <p align="center">
     🤍 🧡 🖤 🤍 💙 ❤️‍🩹 💝 🖤 💜 🤍 
 </p>
-
+<iframe src="https://giphy.com/embed/ROasCjWSnMdpeav9nH" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixel-rick-and-morty-8-bit-ROasCjWSnMdpeav9nH">via GIPHY</a></p>
 <h3 align="center">
     Tech Stack
 </h3>
