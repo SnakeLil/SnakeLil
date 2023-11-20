@@ -1,8 +1,8 @@
 
 <a href="https://github.com/SnakeLil">
-  <div style="width: 100%;display: flex;justify-content: center;">
+  <p align="center">
     <img align="center" src="https://avatars.githubusercontent.com/u/143258708?v=4" style="width: 50px;height: 50px;border-radius: 50%;"/>
-  </div>
+  </p>
 </a>
 
 ## 👋Hello
