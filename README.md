@@ -18,6 +18,5 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeLil&layout=compact"/>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeLil&layout=compact&card_width=100%)
 
 
