@@ -7,7 +7,7 @@
 <p align="center">
     🤍 🧡 🖤 🤍 💙 ❤️‍🩹 💝 🖤 💜 🤍 
 </p>
-<p align="center"><img align="center" src="https://github.com/SnakeLil/SnakeLil/blob/main/static/giphy.gif" style="width: 50px;height: 50px;"/></p>
+<p align="center"><img align="center" src="https://github.com/SnakeLil/SnakeLil/blob/main/static/giphy.gif" width="30" height="30"/></p>
 <h3 align="center">
     Tech Stack
 </h3>
