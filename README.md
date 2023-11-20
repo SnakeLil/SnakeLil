@@ -6,7 +6,7 @@
 
 <div style="line-height:25px;">
 <p align="center" >
-  <img align="center" src="https://github.com/SnakeLil/SnakeLil/blob/main/static/luffy_rotated.gif"  width="25" height="25" />
+  <img align="center" src="https://github.com/SnakeLil/SnakeLil/blob/main/static/luffy.gif"  width="25" height="25" />
    🤍 🧡 🖤 🤍 💙 ❤️‍🩹 💝 🖤 💜 🤍 
   <img align="center" src="https://github.com/SnakeLil/SnakeLil/blob/main/static/luffy.gif"  width="25" height="25" />
 </p>
