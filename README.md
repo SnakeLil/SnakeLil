@@ -1,6 +1,6 @@
 
-<a href="[https://github.com/SnakeLil/github-readme-stats](https://github.com/SnakeLil)">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=SnakeLil&repo=github-readme-stats](https://avatars.githubusercontent.com/u/143258708?v=4)" />
+<a href="https://github.com/SnakeLil">
+  <img align="center" src="https://avatars.githubusercontent.com/u/143258708?v=4" />
 </a>
 
 ## 👋Hello
