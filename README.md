@@ -8,7 +8,7 @@
 <h3 align="center">Front End Developer from China</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54A2FF&center=true&width=435&lines=React+%E2%9D%A4%EF%B8%8F+Vue+Enthusiast;Next.js+%7C+React+Native+Specialist;Node.js+Backend+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54A2FF&center=true&width=435&lines=React+%E2%9D%A4%EF%B8%8F+Vue+Developer;Next.js+%7C+React+Native+Specialist;Node.js+Developer" alt="Typing SVG" />
 </div>
 
 ---
@@ -49,11 +49,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SnakeLil&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeLil&theme=radical" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeLil&layout=compact&theme=radical" />
