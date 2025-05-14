@@ -6,11 +6,6 @@
 
 <h1 align="center">Hi 👋, I'm SnakeLil</h1>
 
-<div align="center">
-<!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54A2FF&center=true&width=435&lines=React+%E2%9D%A4%EF%B8%8F+Vue+Developer;Next.js+%7C+React+Native+Specialist;Node.js+Developer" alt="Typing SVG" /> -->
-</div>
-
----
 
 ### 🛠️ Tech Stack
 
