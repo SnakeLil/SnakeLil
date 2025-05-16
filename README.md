@@ -56,7 +56,6 @@
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Next.js 14](https://img.shields.io/badge/Next.js_14-000000?logo=nextdotjs&logoColor=white)
-![React Server Components](https://img.shields.io/badge/RSC-61DAFB?logo=react&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?logo=turborepo&logoColor=white)
 
 
