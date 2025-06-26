@@ -59,10 +59,3 @@
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?logo=turborepo&logoColor=white)
 
 
----
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=54A2FF&center=true&width=435&lines=Let's+build+something+amazing+together!" alt="Typing SVG" />
-  </a>
-</div>
