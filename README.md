@@ -26,20 +26,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### [Next.js E-Commerce Platform](https://github.com/SnakeLil)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Microservices](https://img.shields.io/badge/-Microservices-FF6B6B)
-
-#### [React Native Social App](https://github.com/SnakeLil)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Real-time](https://img.shields.io/badge/-Real--time-00C7B7)
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
