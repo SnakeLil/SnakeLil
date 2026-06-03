@@ -1,45 +1,134 @@
- <p align="center">
-    <img align="center" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/143258708?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" style="width: 150px;height: 150px;border-radius: 50%;"/>
-  </p>
+<!-- ====================== HEADER ====================== -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm SnakeLil</h1>
+<img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/143258708?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="150" height="150" alt="SnakeLil avatar"/>
 
+<br/>
 
-### 🛠️ Tech Stack
+<a href="https://github.com/SnakeLil">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+SnakeLil;Full-Stack+Developer+%F0%9F%90%8D;React+%E2%80%A2+Vue+%E2%80%A2+Node+%E2%80%A2+NestJS;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-#### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
+<br/>
 
-#### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=SnakeLil&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile views" />
 
-#### Mobile & Tools
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white)
+<!-- ====================== SOCIAL BADGES ====================== -->
+<p>
+  <a href="https://github.com/SnakeLil" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="GitHub"/>
+  </a>
+  <a href="mailto:lilsnake239299@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1a1b26?style=for-the-badge&logo=twitter&logoColor=7aa2f7" alt="Twitter"/>
+  </a>
+  <a href="mailto:lilsnake239299@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:lilsnake239299@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="Email"/>
+  </a>
+</p>
+
+</div>
+
+<!-- ====================== ABOUT ====================== -->
+### 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+
+```typescript
+const snakeLil = {
+  pronouns: "he/him",
+  role: "Full-Stack Developer 🐍",
+  code: ["TypeScript", "JavaScript", "Node.js"],
+  stack: {
+    frontend: ["React", "Vue", "Next.js", "Redux"],
+    backend: ["NestJS", "GraphQL", "MongoDB", "PostgreSQL"],
+    mobile: ["React Native", "Expo"],
+  },
+  currentlyLearning: "Turborepo & monorepo architecture",
+  motto: "Always learning, always shipping ✨",
+};
+```
 
 ---
 
+<!-- ====================== TECH STACK ====================== -->
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-1a1b26?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/-Vue-1a1b26?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1a1b26?style=flat-square&logo=typescript&logoColor=3178C6)
+![Redux](https://img.shields.io/badge/-Redux-1a1b26?style=flat-square&logo=redux&logoColor=764ABC)
+![Webpack](https://img.shields.io/badge/-Webpack-1a1b26?style=flat-square&logo=webpack&logoColor=8DD6F9)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/-Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=339933)
+![NestJS](https://img.shields.io/badge/-NestJS-1a1b26?style=flat-square&logo=nestjs&logoColor=E0234E)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1a1b26?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a1b26?style=flat-square&logo=postgresql&logoColor=4169E1)
+![GraphQL](https://img.shields.io/badge/-GraphQL-1a1b26?style=flat-square&logo=graphql&logoColor=E10098)
+
+**Mobile & Tools**
+
+![React Native](https://img.shields.io/badge/-React_Native-1a1b26?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/-Expo-1a1b26?style=flat-square&logo=expo&logoColor=white)
+
+---
+
+<!-- ====================== GITHUB STATS ====================== -->
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeLil&layout=compact&theme=radical" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SnakeLil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=7aa2f7&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeLil&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeLil&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&langs_count=8" alt="Top Languages" />
+
 </div>
 
 ---
 
+<!-- ====================== CURRENTLY FOCUSING ====================== -->
 ### 🎯 Currently Focusing On
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![Next.js 14](https://img.shields.io/badge/Next.js_14-000000?logo=nextdotjs&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?logo=turborepo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-1a1b26?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1a1b26?style=flat-square&logo=expo&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-1a1b26?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Next.js 14](https://img.shields.io/badge/Next.js_14-1a1b26?style=flat-square&logo=nextdotjs&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-1a1b26?style=flat-square&logo=turborepo&logoColor=EF4444)
+
+---
+
+<!-- ====================== SNAKE CONTRIBUTION GRAPH ====================== -->
+### 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnakeLil/SnakeLil/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnakeLil/SnakeLil/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SnakeLil/SnakeLil/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<!-- ====================== EASTER EGG ====================== -->
+<details>
+  <summary>🥚 <b>Click for a little easter egg</b></summary>
+  <br/>
+  <div align="center">
+    <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png?raw=true" width="200" alt="spidertocat"/>
+    <p><i>Thanks for stopping by! 🐍✨</i></p>
+  </div>
+</details>
+
+<div align="center">
+  <sub>⭐️ From <a href="https://github.com/SnakeLil">SnakeLil</a> with 🐍</sub>
+</div>
 
 
