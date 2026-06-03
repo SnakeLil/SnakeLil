@@ -3,13 +3,7 @@
 
 <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/143258708?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="150" height="150" alt="SnakeLil avatar"/>
 
-<br/>
 
-<a href="https://github.com/SnakeLil">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+SnakeLil;Full-Stack+Developer+%F0%9F%90%8D;React+%E2%80%A2+Vue+%E2%80%A2+Node+%E2%80%A2+NestJS;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
-</a>
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=SnakeLil&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile views" />
 
@@ -83,7 +77,7 @@ const snakeLil = {
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SnakeLil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=7aa2f7&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeLil&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+<img height="170" src="https://streak-stats.demolab.com/?user=SnakeLil&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
 
 <br/>
 
