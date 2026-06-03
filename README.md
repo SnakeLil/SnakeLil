@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://github.com/SnakeLil">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+SnakeLil;Full-Stack+Developer+%F0%9F%90%8D;React+%E2%80%A2+Vue+%E2%80%A2+Node+%E2%80%A2+NestJS;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+SnakeLil;React+%E2%80%A2+Vue+%E2%80%A2+Node+%E2%80%A2+NestJS;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
