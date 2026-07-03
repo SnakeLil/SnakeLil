@@ -5,11 +5,11 @@
 
 <br/>
 
-<a href="https://github.com/SnakeLil">
+<!-- <a href="https://github.com/SnakeLil">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+SnakeLil;React+%E2%80%A2+Vue+%E2%80%A2+Node+%E2%80%A2+NestJS;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
-</a>
+</a> -->
 
-<br/>
+<!-- <br/> -->
 
 <img src="https://komarev.com/ghpvc/?username=SnakeLil&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile views" />
 
@@ -30,52 +30,6 @@
 </p>
 
 </div>
-
-<!-- ====================== ABOUT ====================== -->
-### 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-
-```typescript
-const snakeLil = {
-  pronouns: "he/him",
-  role: "Full-Stack Developer 🐍",
-  code: ["TypeScript", "JavaScript", "Node.js"],
-  stack: {
-    frontend: ["React", "Vue", "Next.js", "Redux"],
-    backend: ["NestJS", "GraphQL", "MongoDB", "PostgreSQL"],
-    mobile: ["React Native", "Expo"],
-  },
-  currentlyLearning: "Turborepo & monorepo architecture",
-  motto: "Always learning, always shipping ✨",
-};
-```
-
----
-
-<!-- ====================== TECH STACK ====================== -->
-### 🛠️ Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/-React-1a1b26?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/-Vue-1a1b26?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/-TypeScript-1a1b26?style=flat-square&logo=typescript&logoColor=3178C6)
-![Redux](https://img.shields.io/badge/-Redux-1a1b26?style=flat-square&logo=redux&logoColor=764ABC)
-![Webpack](https://img.shields.io/badge/-Webpack-1a1b26?style=flat-square&logo=webpack&logoColor=8DD6F9)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/-Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=339933)
-![NestJS](https://img.shields.io/badge/-NestJS-1a1b26?style=flat-square&logo=nestjs&logoColor=E0234E)
-![MongoDB](https://img.shields.io/badge/-MongoDB-1a1b26?style=flat-square&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a1b26?style=flat-square&logo=postgresql&logoColor=4169E1)
-![GraphQL](https://img.shields.io/badge/-GraphQL-1a1b26?style=flat-square&logo=graphql&logoColor=E10098)
-
-**Mobile & Tools**
-
-![React Native](https://img.shields.io/badge/-React_Native-1a1b26?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/-Expo-1a1b26?style=flat-square&logo=expo&logoColor=white)
-
----
 
 <!-- ====================== GITHUB STATS ====================== -->
 ### 📊 GitHub Stats
