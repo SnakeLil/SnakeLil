@@ -36,12 +36,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SnakeLil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=7aa2f7&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=SnakeLil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=7aa2f7&include_all_commits=true&count_private=true" alt="GitHub Stats" /> -->
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeLil&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeLil&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&langs_count=8" alt="Top Languages" />
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeLil&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&langs_count=8" alt="Top Languages" /> -->
 
 </div>
 
