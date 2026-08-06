@@ -48,13 +48,7 @@
 ---
 
 <!-- ====================== CURRENTLY FOCUSING ====================== -->
-### 🎯 Currently Focusing On
 
-![React Native](https://img.shields.io/badge/React_Native-1a1b26?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-1a1b26?style=flat-square&logo=expo&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-1a1b26?style=flat-square&logo=nestjs&logoColor=E0234E)
-![Next.js 14](https://img.shields.io/badge/Next.js_14-1a1b26?style=flat-square&logo=nextdotjs&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-1a1b26?style=flat-square&logo=turborepo&logoColor=EF4444)
 
 ---
 
