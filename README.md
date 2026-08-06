@@ -47,11 +47,6 @@
 
 ---
 
-<!-- ====================== CURRENTLY FOCUSING ====================== -->
-
-
----
-
 <!-- ====================== SNAKE CONTRIBUTION GRAPH ====================== -->
 ### 🐍 Watch My Contributions Get Eaten
 
