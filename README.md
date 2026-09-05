@@ -71,7 +71,7 @@
 </details>
 
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/SnakeLil">SnakeLil</a> with 🐍</sub>
+  <sub>⭐️ From <a href="https://github.com/SnakeLil">SnakeLil</a> with 🐍🐍</sub>
 </div>
 
 
